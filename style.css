@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to bottom right, lightblue, rgba(255,255,255));
+}
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#status, #num_obj {
+    font-size: 18px;
+    margin-block: 8.5px;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius:10px;
+    margin-top: 30px;
+}
